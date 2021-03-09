@@ -1,1 +1,1 @@
-[Contribution guidelines for this project](docs/nasm.md)
+[Contribution guidelines for this project](nasm.md)
