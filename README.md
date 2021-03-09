@@ -1,1 +1,1 @@
-[Contribution guidelines for this project](nasm.md)
+[Instructions in Nasm](nasm.md)
