@@ -140,33 +140,33 @@ jb(below) | CF = 1
 # Flags 
 ![image](https://user-images.githubusercontent.com/73192804/110782354-167e6280-8278-11eb-81ee-d95ab8151136.png)
 
-CF - carry flag 
-PF - parity flag 
-ZF - zero flag 
-SF - sign flag 
-OF - owerflow flag 
+CF - carry flag.
+PF - parity flag.
+ZF - zero flag.
+SF - sign flag. 
+OF - owerflow flag. 
 
 # Segments program
 ## .data
-Stores initialized global and static variables 
-For initialize variable use db,dw,dd,dq(bit,word,double word, quadro word)
+Stores initialized global and static variables.
+For initialize variable use db,dw,dd,dq(bit,word,double word, quadro word).
 
 ![image](https://user-images.githubusercontent.com/73192804/110787982-12a20e80-827f-11eb-96fe-62b2c746b4fd.png)
 
 ## .rodata
-Stores constants
+Stores constants.
 
 ![image](https://user-images.githubusercontent.com/73192804/110788029-22b9ee00-827f-11eb-806d-48b663b6a963.png)
 
-For initialize variable use db,dw,dd,dq(bit,word,double word, quadro word)
+For initialize variable use db,dw,dd,dq(bit,word,double word, quadro word).
 ## .bss 
-Stores uninitialized global and static variables
-For initialize variable use resb,resw,resd,resq(bit,word,double word, quadro word)
+Stores uninitialized global and static variables.
+For initialize variable use resb,resw,resd,resq(bit,word,double word, quadro word).
 
 ![image](https://user-images.githubusercontent.com/73192804/110788086-39f8db80-827f-11eb-8e2f-36d1127871e3.png)
 
 ## .text 
-Stores program's code
+Stores program's code.
 
 ![image](https://user-images.githubusercontent.com/73192804/110788591-e044e100-827f-11eb-8e6a-88a7142bcb4f.png)
 
