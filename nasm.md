@@ -63,7 +63,7 @@ qword | long long | 8
 ![image](https://user-images.githubusercontent.com/73192804/110774684-247bb580-826f-11eb-8f24-15446c3968b2.png)
 
 ## Type casting
-###**mov**e **s**ign e**x**tend.
+### **mov**e **s**ign e**x**tend.
 mode data out dst in src and add sign bit in upper part dst.
 ` movsx dst , src`
 ![image](https://user-images.githubusercontent.com/73192804/110781578-234e8680-8277-11eb-8c9c-7a5ebf09b87b.png)
