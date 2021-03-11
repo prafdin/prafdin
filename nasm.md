@@ -65,10 +65,12 @@ qword | long long | 8
 ## Type casting
 ### **mov**e **s**ign e**x**tend.
 mode data out dst in src and add sign bit in upper part dst.
-` movsx dst , src`
+` movsx dst , src `
 ![image](https://user-images.githubusercontent.com/73192804/110781578-234e8680-8277-11eb-8c9c-7a5ebf09b87b.png)
 
-
+### **mov**e **z**iro e**x**tend
+mode data out dst in src and ziro sign in upper part dst.
+` movzx dst ,src `
 
 
 
