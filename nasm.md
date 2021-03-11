@@ -47,7 +47,7 @@ Usually they contain address pointers on array, but may be used how general purp
 
 # Types data
 
-Type | Type in C | Size in bit
+Type | Type in C | Size in byte
 ---- | --------- | -----------
 byte | char | 1
 word | short | 2
