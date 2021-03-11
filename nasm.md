@@ -1,4 +1,4 @@
-[__Command__](https://github.com/prafdin/prafdin/edit/main/nasm.md#commands) 
+[__Command__](https://github.com/prafdin/prafdin/blob/main/nasm.md#commands) 
 
 
 # All registers x86 
