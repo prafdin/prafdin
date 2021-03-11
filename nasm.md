@@ -59,6 +59,9 @@ qword | long long | 8
 ## Moving 
 ` mov dst, src `
 
+## Swaping
+`XCHG operand1 , operand 2; swap data in operand 1 and operand 2` 
+
 ### Issue move
 ![image](https://user-images.githubusercontent.com/73192804/110774684-247bb580-826f-11eb-8f24-15446c3968b2.png)
 
