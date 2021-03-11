@@ -1,4 +1,4 @@
-[Command]() 
+[Command](Everyone register without prefix contains two 8 bit parts.) 
 
 
 # All registers x86 
