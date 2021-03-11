@@ -51,3 +51,11 @@ word | short | 2
 dword | int/long | 4
 qword | long long | 8
 
+# Commands
+
+Moving 
+' mov src, dst '
+
+
+
+
