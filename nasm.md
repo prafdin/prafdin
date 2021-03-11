@@ -56,8 +56,16 @@ qword | long long | 8
 
 # Commands
 
-Moving 
-` mov src, dst `
+## Moving 
+` mov dst, src `
+
+### Issue moving
+![image](https://user-images.githubusercontent.com/73192804/110774684-247bb580-826f-11eb-8f24-15446c3968b2.png)
+
+## Type casting
+__mov__e __s__ign e__x__tend 
+` movsx dst , src`
+
 
 
 
