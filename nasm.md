@@ -1,4 +1,4 @@
-[Command](Everyone register without prefix contains two 8 bit parts.) 
+[__Command__](https://github.com/prafdin/prafdin/edit/main/nasm.md#Commands) 
 
 
 # All registers x86 
